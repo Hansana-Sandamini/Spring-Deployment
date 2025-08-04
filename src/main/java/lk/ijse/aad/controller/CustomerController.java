@@ -1,6 +1,5 @@
 package lk.ijse.aad.controller;
 
-import lk.ijse.aad.dto.ApiResponse;
 import lk.ijse.aad.dto.CustomerDTO;
 import lk.ijse.aad.service.CustomerService;
 import lombok.RequiredArgsConstructor;
